@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+table{
+    border-collapse: collapse;
+    width: 90vw;
+}
+table th,td{
+    border: 1px solid black;
+}
+thead{
+    background-color: rgb(184, 71, 71);
+    color: white;
+}
+.row1{
+    background-color: lightcoral;
+    color: white;
+}
+.last-row{
+    background-color:rgb(187, 249, 228) ;
+}
